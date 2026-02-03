@@ -41,19 +41,7 @@ Wokwi Simulator
 
 JSON (for diagram configuration)
 
-📂 Repository Structure
-IOT_Project/
-│
-├── IOT_Phase1.pdf
-├── IOT_Phase2.pptx
-├── IOT_Phase3.pptx
-├── IOT_Phase4.pptx
-├── IOT_Phase5.pptx
-├── sketch.ino
-├── diagram.json
-├── libraries.txt
-├── wokwi-project.txt
-└── README.md
+
 
 ▶️ How to Run the Project
 Open Wokwi Simulator
